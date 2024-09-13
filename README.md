@@ -1,5 +1,5 @@
 ![HelloWorldSeytonicGIF (2)](https://github.com/user-attachments/assets/3dc04033-3905-424e-a929-6c37779c47fe)
-
+# Hello World - Small Introduction
 ✨This repository showcases Wilmer Soriano's hands-on experience in the programming world.✨
 
 I'd like to take a moment to introduce you to my projects, ongoing work, and the skills I'm proud to possess.
