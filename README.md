@@ -9,13 +9,14 @@ If you're eager to explore and be part of this journey, here are several ways to
 
 
 📩Email: official_Wilmer.2020@outlook.com
-🛜LinkedIn: www.linkedin.com/in/wilmer-s-a37b18264
+🔗LinkedIn: www.linkedin.com/in/wilmer-s-a37b18264
+💻My website: https://wilmer-portfolio.netlify.app/
 
 
 
-At heart I am a gamer🎮, manga reader📖, and Computer Scientist💾🖥️.
+At heart I am a gamer🎮, anime enjoyer📺, Computer Scientist💾, and Cybersecurity🔒 
 
-I aspire to be part of projects that push the boundaries of what’s possible, whether it’s through software development, artificial intelligence, or data science.
+I aspire to be part of projects that push the boundaries of what’s possible, whether it’s through software development, artificial intelligence, security, or data science.
 My goal is to leave a lasting mark in the field by creating solutions that empower people and make technology more accessible to all.
 
 With every project I take on, I’m committed to learning, growing, and applying my knowledge to create something meaningful.
