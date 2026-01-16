@@ -1,23 +1,41 @@
 ![HelloWorldSeytonicGIF (2)](https://github.com/user-attachments/assets/3dc04033-3905-424e-a929-6c37779c47fe)
-# Small Introduction
-✨This repository showcases Wilmer Soriano's hands-on experience in the programming world.✨
 
-I'd like to take a moment to introduce you to my projects, ongoing work, and the skills I'm proud to possess.
-I believe it's important to highlight one's abilities and passions, and I'm thrilled to offer you an insider's look into my coding journey.
-If you're eager to explore and be part of this journey, here are several ways to get in touch:
+# 👋 Hi, I'm Wilmer Soriano
 
+✨ Welcome to my GitHub repository! ✨ 
+This space showcases my hands-on experience, ongoing projects, and growth as a developer and computer scientist.
+Not everything here is purely for practice—some repositories include experimental work, exploit mods, random projects, or 
+explorations where I’m simply messing around with new features, tools, and ideas in the coding world.
 
+---
 
-📩Email: official_Wilmer.2020@outlook.com
-🔗LinkedIn: www.linkedin.com/in/wilmer-s-a37b18264
-💻My website: https://wilmer-portfolio.netlify.app/
+## 🚀 About Me
 
+I’m a **Computer Science enthusiast** with strong interests in:
 
+- 💾 Software Development  
+- 🔒 Cybersecurity  
+- 🤖 Artificial Intelligence  
+- 📊 Data Science  
 
-At heart I am a gamer🎮, anime enjoyer📺, Computer Scientist💾, and Cybersecurity🔒 
+Outside of coding, you’ll probably find me:
+- 🎮 Gaming  
+- 📺 Enjoying anime  
+- 🧠 Exploring new tech concepts
+- 🖲️ Exploiting Mods
 
-I aspire to be part of projects that push the boundaries of what’s possible, whether it’s through software development, artificial intelligence, security, or data science.
-My goal is to leave a lasting mark in the field by creating solutions that empower people and make technology more accessible to all.
+I aspire to contribute to projects that push boundaries and create solutions that empower people and make technology more accessible.
 
-With every project I take on, I’m committed to learning, growing, and applying my knowledge to create something meaningful.
-I believe that with the right mindset and perseverance, anyone can make a difference—and I’m excited to continue on this path to see where it leads.
+---
+
+## 📬 Get in Touch
+
+If you’d like to connect, collaborate, or just say hello, feel free to reach out:
+
+- 📩 **Email:** official_Wilmer.2020@outlook.com  
+- 🔗 **LinkedIn:** [linkedin.com/in/wilmer-s-a37b18264](https://www.linkedin.com/in/wilmer-s-a37b18264)  
+- 💻 **Portfolio:** [wilmer-portfolio.netlify.app](https://wilmer-portfolio.netlify.app)
+
+---
+
+⭐ Feel free to explore my repositories!
