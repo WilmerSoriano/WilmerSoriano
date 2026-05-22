@@ -32,7 +32,7 @@ I aspire to contribute to projects that push boundaries and create solutions tha
 
 If you’d like to connect, collaborate, or just say hello, feel free to reach out:
 
-- 📩 **Email:** official_Wilmer.2020@outlook.com  
+- 📩 **Email:** soriano.w@outlook.com
 - 🔗 **LinkedIn:** [linkedin.com/in/wilmer-s-a37b18264](https://www.linkedin.com/in/wilmer-s-a37b18264)  
 - 💻 **Portfolio:** [wilmer-portfolio.netlify.app](https://wilmer-portfolio.netlify.app)
 
