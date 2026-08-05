@@ -1,10 +1,12 @@
-![HelloWorldSeytonicGIF (2)](https://github.com/user-attachments/assets/3dc04033-3905-424e-a929-6c37779c47fe)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+there;I'm+Wilmer+Soriano;Computer Science+Cybersecurity;Programmer+%7C+Security+%7C+Open+Source" />
+</p>
 
 # 👋 Hi, I'm Wilmer Soriano
 
 ✨ Welcome to my GitHub repository! ✨ 
 This space showcases my hands-on experience, ongoing projects, and growth as a developer and computer scientist.
-Not everything here is purely for practice—some repositories include experimental work, exploit mods, random projects, or 
+Not everything here is purely for practice, some repositories include experimental work, exploit mods, random projects, or 
 explorations where I’m simply messing around with new features, tools, and ideas in the coding world.
 
 ---
@@ -24,7 +26,7 @@ Outside of coding, you’ll probably find me:
 - 🧠 Exploring new tech concepts
 - 🖲️ Exploiting Mods
 
-I aspire to contribute to projects that push boundaries and create solutions that empower people and make technology more accessible.
+I aspire to contribute to projects that push boundaries and create solutions that empower people and make technology more accessible and safe for all.
 
 ---
 
