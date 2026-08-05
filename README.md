@@ -63,9 +63,9 @@ My goal is to contribute to projects that push boundaries and create solutions t
 
 # What I'm working on right now!
 
-- 🔨 Building backend applications with Java + Spring Boot
-- 🐍 Developing Python automation and security tools
-- 🔐 Learning penetration testing and network security
+- Building backend applications with Java + Spring Boot
+- Developing Python automation and security tools
+- Learning penetration testing and network security
 ---
 
 # 📬 Get In Touch
